@@ -1,10 +1,23 @@
 <h2>Hi there, fellow &#60coders/&#62  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h2>
 
 <h2>I'm Mayank Goel </h2>
+<h3 align="center">Connect With Me !! </h3> 
+<p align="center">
+  <a href="https://github.com/yellowberard" target="_blank">
+  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/mayank-goel-55a299200/" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/mayank_235" target="_blank">
+  <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+  </a>
+  <a href="mailto:goel.mayank235@gmail.com">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
+  </a>
+</p> 
 
-[![Linkedin Badge](https://img.shields.io/badge/-MayankGoel-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/mayank-goel/)](https://www.linkedin.com/in/mayank-goel-55a299200/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BDVm54RcHRGyfzA0AHjPUzQ%3D%3D)
-[![Twitter Badge](https://img.shields.io/badge/-@mayank_235-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/mayank_235)](https://twitter.com/mayank_235)
-[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:goel.mayank235@gmail.com)](mailto:goel.mayank235@gmail.com)
+
 
 - 🔭 I’m currently working on Full stack Web Development
 - 🌱 I’m currently learning Data Structures and Algorithms
@@ -17,10 +30,13 @@
 <code><img height="20" src="https://html5hive.org/wp-content/uploads/2014/06/js_800x800-619x619.jpg.webp"></code>
 <!-- <code><img height="20" src="https://cdn.freebiesupply.com/logos/large/2x/kotlin-1-logo-png-transparent.png"></code> -->
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
-<!-- <code><img height="20" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png"></code> -->
 
-![Mayank's github stats](https://github-readme-stats.vercel.app/api?username=yellowberard)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yellowberard)](https://github.com/mrkc2303/github-readme-stats)
+<p align = "center">
+<img src = "https://github-readme-stats.vercel.app/api?username=yellowberard"/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yellowberard"/> <br> <br> 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yellowberard&theme=dracula" /> <br> <br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yellowberard&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br>
+</p>
 
 ![Visitor Count](https://profile-counter.glitch.me/yellowberard/count.svg)
 
