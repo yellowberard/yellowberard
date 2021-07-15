@@ -35,7 +35,7 @@
 <img src = "https://github-readme-stats.vercel.app/api?username=yellowberard"/>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yellowberard"/> <br> <br> 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yellowberard&theme=dracula" /> <br> <br>
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=yellowberard&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br> -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yellowberard&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br>
 </p>
 
 ![Visitor Count](https://profile-counter.glitch.me/yellowberard/count.svg)
