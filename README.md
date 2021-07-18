@@ -1,7 +1,7 @@
 <h2 align="center">Hi there, fellow &#60coders/&#62  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h2>
 
 <h2 align="center">I'm Mayank Goel </h2>
-<h3 align="center">Connect With Me !! </h3> 
+<h3 align="center">Connect With Me ! </h3> 
 <p align="center">
 <!--   <a href="https://github.com/yellowberard" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
