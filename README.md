@@ -12,7 +12,7 @@
   <a href="https://twitter.com/mayank_235" target="_blank">
   <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
   </a>
-  <a href="mailto:goel.mayank235@gmail.com">
+  <a href="mailto:mayankgoel1351@gmail.com">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
   </a>
 </p> 
@@ -23,7 +23,7 @@
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 🤔 I’m looking for help with Competitive Programming
 - 💬 Ask me about Anything that exites me
-- 📫 How to reach me: goel.mayank235@gmail.com
+- 📫 How to reach mayankgoel1351@gmail.com
 
 <strong>Languages and Tools used: </strong>
 
