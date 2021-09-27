@@ -22,7 +22,7 @@
 - 🔭 I’m currently working on Full stack Web Development
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 🤔 I’m looking for help with Competitive Programming
-- 💬 Ask me about Anything that exites me
+- 💬 Ask me about anything that exites me
 - 📫 How to reach mayankgoel1351@gmail.com
 
 <strong>Languages and Tools used: </strong>
