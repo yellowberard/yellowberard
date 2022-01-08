@@ -24,20 +24,23 @@
 - 🤔 I’m looking for help with Competitive Programming
 - 💬 Ask me about anything that exites me
 - 📫 How to reach mayankgoel1351@gmail.com
+- Click here to see my <a href = "https://drive.google.com/file/d/1Asb9sqX4BL2SwUD44Dek3WZUVovZCp3U/view?usp=sharing"> Resume</a>
+
 
 <strong>Languages and Tools used: </strong>
 
-<code><img height="20" src="https://html5hive.org/wp-content/uploads/2014/06/js_800x800-619x619.jpg.webp"></code>
-<!-- <code><img height="20" src="https://cdn.freebiesupply.com/logos/large/2x/kotlin-1-logo-png-transparent.png"></code> -->
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![C](https://img.shields.io/badge/-00599C?logo=c&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/-++-00599C?logo=c&logoColor=white&style=for-the-badge)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge)
 
 <p align = "center">
-<img src = "https://github-readme-stats.vercel.app/api?username=yellowberard"/>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yellowberard"/> <br> <br> 
+<img src = "https://github-readme-stats.vercel.app/api?username=yellowberard&show_icon=true&theme=dracula"/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yellowberard&theme=dracula"/> <br> <br> 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yellowberard&theme=dracula" /> <br> <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yellowberard&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yellowberard&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact&theme=dracula" /><br>
 </p>
 
-![Visitor Count](https://profile-counter.glitch.me/yellowberard/count.svg)
-
-<strong>Show some :heart: by looking at my some repositories</strong>
