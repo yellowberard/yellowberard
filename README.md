@@ -36,14 +36,18 @@
 
 ### Libraries & Framework
 
-[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://reactjs.org/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)](https://getbootstrap.com/)
+<!-- [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://reactjs.org/) -->
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+
 
 ### Tools 
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&style=flat-square&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+<!-- ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&style=flat-square&logoColor=white) -->
+<!-- ![GitHub page](https://img.shields.io/badge/Github-Pages-2088FF?style=for-the-badge&logo={GitHub Pages}&logoColor=white) -->
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge)
+<!-- ![image](https://github-profile-trophy.vercel.app/?username={yellowberard}") -->
+
 <p align = "center">
 <img src = "https://github-readme-stats.vercel.app/api?username=yellowberard&show_icon=true&theme=dracula"/>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yellowberard&theme=dracula"/> <br> <br> 
@@ -51,4 +55,4 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yellowberard&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact&theme=dracula" /><br>
 </p>
 
-<strong>Show some :heart: by looking at my some repositories</strong>
+<strong>Show some :heart: by looking at my some <a href="https://github.com/yellowberard?tab=repositories">repositories</a></strong>
