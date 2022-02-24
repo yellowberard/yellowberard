@@ -52,7 +52,7 @@
 <img src = "https://github-readme-stats.vercel.app/api?username=yellowberard&show_icon=true&theme=dracula"/>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yellowberard&theme=dracula"/> <br> <br> 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yellowberard&theme=dracula" /> <br> <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yellowberard&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact&theme=dracula" /><br>
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=yellowberard&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact&theme=dracula" /><br> -->
 </p>
 
 <strong>Show some :heart: by looking at my some <a href="https://github.com/yellowberard?tab=repositories">repositories</a></strong>
