@@ -18,12 +18,12 @@
 <!-- [![Pranay's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=yellowberard&theme=xcode)](https://github.com/yellowberard) -->
 
 
-- 🔭 I’m currently working on Full stack Web Development
-- 🌱 I’m currently learning Data Structures and Algorithms
-- 🤔 I’m looking for help with Competitive Programming
-- 💬 Ask me about anything that exites me
-- 📫 How to reach mayankgoel1351@gmail.com
-- Click here to see my <a href = "https://drive.google.com/file/d/1Asb9sqX4BL2SwUD44Dek3WZUVovZCp3U/view?usp=sharing"> Resume</a>
+ - 🔭 I’m currently working on Full stack Web Development
+ - 🌱 I’m currently learning Data Structures and Algorithms
+ - 🤔 I’m looking for help with Competitive Programming
+ - 💬 Ask me about anything that exites me
+ - 📫 How to reach mayankgoel1351@gmail.com
+ - Click here to see my <a href = "https://drive.google.com/file/d/1Asb9sqX4BL2SwUD44Dek3WZUVovZCp3U/view?usp=sharing"> Resume</a>
 
 
 ### Languages
