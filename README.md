@@ -2,8 +2,7 @@
 
 <h2 align="center">I'm Mayank Goel </h2>
 <h3 align="center">Connect With Me !!! </h3> 
-<p align="center">
-  
+<p align="center">  
   <a href="https://www.linkedin.com/in/mayank-goel-55a299200/" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -19,7 +18,7 @@
 <!-- [![Pranay's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=yellowberard&theme=xcode)](https://github.com/yellowberard) -->
 
 
- - 🔭 I’m currently working on Full stack Web Development
+ - 🔭 I’m currently working on Full stack Web Development.
  - 🌱 I’m currently learning Data Structures and Algorithms
  - 🤔 I’m looking for help with Competitive Programming
  - 💬 Ask me about anything that exites me
@@ -56,5 +55,6 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yellowberard&theme=dracula" /> <br> <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yellowberard&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact&theme=dracula" /><br>
 </p>
+
 
 <strong>Show some :heart: by looking at my some <a href="https://github.com/yellowberard?tab=repositories">repositories</a></strong>
