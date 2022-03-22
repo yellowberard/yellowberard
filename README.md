@@ -36,7 +36,6 @@
 ![C++](https://img.shields.io/badge/-++-00599C?logo=c&logoColor=white&style=for-the-badge)
 
 ### Libraries & Framework
-
 <!-- [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://reactjs.org/) -->
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
