@@ -22,7 +22,7 @@
  - 🌱 I’m currently learning Data Structures and Algorithms
  - 🤔 I’m looking for help with Competitive Programming
  - 💬 Ask me about anything that exites me
- - 📫 How to reach mayankgoel1351@gmail.com
+ - 📫 You can reach me at mayankgoel1351@gmail.com
  - Visit my Portfolio <a href="https://www.mayankgoel.co.in/">Website</a>
  - Click here to see my <a href = "https://drive.google.com/file/d/1Asb9sqX4BL2SwUD44Dek3WZUVovZCp3U/view?usp=sharing"> Resume</a>
 
