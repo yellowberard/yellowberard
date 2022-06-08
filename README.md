@@ -1,4 +1,4 @@
-<h2 align="center">Hi there, fellow &#60coders/&#62  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"> </h2>
+<h2 align="center">Hi there, fellow &#60coders/&#62  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="1px"> </h2>
 
 <h2 align="center">I'm Mayank Goel </h2>
 <h3 align="center">Connect With Me !!! </h3> 
