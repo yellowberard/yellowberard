@@ -25,7 +25,7 @@
  - 💬 Ask me about anything that exites me
  - 📫 You can reach me at mayankgoel1351@gmail.com
  - Visit my Portfolio <a href="https://www.mayankgoel.co.in/">Website</a>
- - Click here to see my <a href = "https://drive.google.com/file/d/1Asb9sqX4BL2SwUD44Dek3WZUVovZCp3U/view?usp=sharing"> Resume</a>
+ - Click here to see my <a href = "https://drive.google.com/file/d/1As9cXzI1lI0mUbYTNH5ZaXmAyykFQh5L/view?usp=sharing"> Resume</a>
 
 
 ### Languages
