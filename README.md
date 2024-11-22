@@ -20,9 +20,9 @@
 <!-- [![Pranay's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=yellowberard&theme=xcode)](https://github.com/yellowberard) -->
 
 
- - 🔭 I’m currently working on Full stack Web Development.
+ - 🔭 I’m currently working on Machine Learning and Full-Stack Web Development
  - 🌱 I’m currently learning Data Structures and Algorithms
- - 🤔 I’m looking for help with Competitive Programming
+ - 💬 Ask me about Anything that excites me
  - 💬 Ask me about anything that exites me
  - 📫 You can reach me at mayankgoel1351@gmail.com
  - Visit my Portfolio <a href="https://www.mayankgoel.co.in/">Website</a>
