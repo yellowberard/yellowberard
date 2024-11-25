@@ -25,7 +25,7 @@
  - 💬 Ask me about Anything that excites me
  - 📫 You can reach me at mayankgoel1351@gmail.com
  - Visit my Portfolio <a href="https://www.mayankgoel.co.in/">Website</a>
- - Click here to see my <a href = "https://drive.google.com/file/d/1QErLSWi9TckG-UiYWXGqaH-hDvCh4GHq/view?usp=sharing"> Resume</a>
+ - Click here to see my <a href = "https://drive.google.com/file/d/1ArJShbZuJUsejac__iMLxvborKQTnjVL/view?usp=sharing"> Resume</a>
 
 
 ### Languages
